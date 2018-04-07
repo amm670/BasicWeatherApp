@@ -4,7 +4,9 @@ Made use of openweathermap API, JSON parsing, and cocoa pods to create a fully f
 Download the starter project files as .zip and extract to your desktop. 
 
 ## Finished App
-![Finished App](changeLocation.png)
+![](image1.png)
+![](image2.png)
+![](image3.png)
 
 ## Fix for Cocoapods v1.0.1 and below
 
